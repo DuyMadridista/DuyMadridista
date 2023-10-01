@@ -2,9 +2,9 @@
 
 👋 Hey everyone, I'm <b>[Luu Van Duy](https://bento.me/luuvanduy?fbclid=IwAR2FZTTalL6IzP9gGvwba8WuyXuZja1yx3A-l7-byhu_abN1WAjq8fI6FLo)</b> <br>
 <b>✨Backend Web Developer✨</b>
-- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/lvddev](https://www.linkedin.com/in/lvddev/) 
-- <img align="center" src="./images/icon/mail.webp" title = "Twitter" alt="" height="20" /> vanduyluu432003@gmail.com
-- <img align="center" src="./images/icon/fb.png" title = "Twitter" alt="" width="20" /> [lvd.name](https://www.facebook.com/lvd.name/)
+- Linkedin: [in/lvddev](https://www.linkedin.com/in/lvddev/) 
+- Contact me: vanduyluu432003@gmail.com
+- Facebook: [lvd.name](https://www.facebook.com/lvd.name/)
 
 🖥️ I'm a backend developer with a passion for building beautiful, functional, and scalable web applications. <br>
  Good at C#, NodeJS, mySQL,SQLServer for web applications.
